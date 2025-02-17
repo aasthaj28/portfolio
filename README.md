@@ -22,10 +22,6 @@
     <a href="https://github.com/aasthaj28/portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Aasthaj28](https://github.com/aasthaj28/portfolio). Thanks!
-
 ## Built With
 
 My personal portfolio <a href="https://portfolio-phi-orcin-32.vercel.app/" target="_blank">aastha.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
